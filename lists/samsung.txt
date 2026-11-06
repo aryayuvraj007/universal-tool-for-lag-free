@@ -1,0 +1,22 @@
+# Samsung (One UI) Bloatware
+
+# Ad Engines & Discover Feed
+com.samsung.android.app.spage               # Samsung Free (Ad feed screen)
+com.samsung.android.dynamiclock             # Glance lockscreen ads
+com.samsung.android.rubin.app               # Samsung Customization Service (Ad tracking)
+com.samsung.android.service.livedrawing     # Live drawing stub
+
+# Bixby Voice Services (Google Assistant unaffected)
+com.samsung.android.bixby.agent
+com.samsung.android.bixby.wakeup
+
+# AR & Avatar Stubs
+com.samsung.android.ardrawing
+com.samsung.android.aremoji
+com.samsung.android.arzone
+com.samsung.android.app.camera.sticker.facearavatar.preload
+
+# Kids & Unused Utilities
+com.samsung.android.kidsinstaller
+com.sec.android.app.sbrowser                # Samsung Internet (safe if using Chrome)
+com.samsung.android.allshare.service.fileshare

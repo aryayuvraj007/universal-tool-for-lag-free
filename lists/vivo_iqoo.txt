@@ -1,0 +1,26 @@
+# Vivo / iQOO (Funtouch OS & OriginOS) Bloatware
+
+# Ads & Telemetry
+com.vivo.magazine                           # Lockscreen Magazine ads
+com.vivo.Tips                               # Tip notifications
+com.vivo.ewarranty                          # Warranty telemetry engine
+
+# Browsers & Feed
+com.vivo.browser                            # Ad-heavy Vivo browser
+com.android.browser                         # Stock browser stub
+
+# Background Services & Utilities
+com.vivo.agent                              # Jovi Assistant listening daemon
+com.bbk.cloud                               # Vivo Cloud background sync
+com.vivo.childrenmode                       # Kids mode
+com.vivo.easyshare                          # EasyShare file transfer
+com.vivo.videoeditor                        # Pre-installed video editor
+com.vivo.smartshot                          # Long screenshot service
+com.yozo.vivo.office                        # Preloaded office reader
+
+# Background Wallpapers & Widgets
+com.vivo.livewallpaper.coffeetime
+com.vivo.livewallpaper.silk
+com.vivo.livewallpaper.galaxy
+com.vivo.livewallpaper.coralsea
+com.bbk.photoframewidget

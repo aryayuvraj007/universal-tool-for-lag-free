@@ -1,0 +1,17 @@
+# OnePlus / Oppo / Realme (ColorOS, OxygenOS, Realme UI) Bloatware
+
+# HeyTap Services & Ad Magazines
+com.heytap.pictorial                        # Lockscreen Magazine ads
+com.heytap.market                           # App Market store
+com.heytap.themestore                       # Theme store push notifications
+com.heytap.cloud                            # HeyTap Cloud sync
+com.heytap.browser                          # HeyTap browser
+com.coloros.browser                         # ColorOS browser
+
+# Redundant Stubs & Utilities
+com.coloros.video                           # Video player
+com.oppo.music                              # Music player
+com.coloros.gamespace                       # Game space store promos
+com.coloros.smartdrive                      # Driving mode
+com.oplus.cosa                              # Game assistant promo overlay
+com.realme.movieshot                        # Movie clip editor

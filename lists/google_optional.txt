@@ -1,0 +1,10 @@
+# Optional Google Redundant Preloads
+# (Safe to remove if you do not use them; core Google Play Store remains untouched)
+
+com.google.android.apps.wellbeing           # Digital Wellbeing (continuous CPU tracker)
+com.google.android.apps.tachyon             # Google Duo / Meet
+com.google.android.videos                   # Google TV (Play Movies)
+com.google.android.apps.youtube.music       # YouTube Music (safe if using Spotify or other apps)
+com.google.android.apps.podcasts            # Google Podcasts
+com.google.android.apps.magazines           # Google News
+com.google.android.apps.docs                # Google Drive / Docs (can be reinstalled from Play Store)

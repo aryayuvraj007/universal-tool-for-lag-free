@@ -1,0 +1,19 @@
+# Universal Bloatware (All Android Phones & Carriers)
+
+# Meta / Facebook Background Services & Trackers
+com.facebook.katana
+com.facebook.system
+com.facebook.appmanager
+com.facebook.services
+
+# Microsoft Preloads
+com.microsoft.skydrive
+com.linkedin.android
+com.microsoft.office.officehubrow
+com.microsoft.appmanager
+
+# Preloaded Media & Shopping Stubs
+com.netflix.partner.activation
+com.netflix.mediaclient
+com.amazon.mShop.android.shopping
+com.booking

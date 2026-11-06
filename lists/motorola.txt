@@ -1,0 +1,6 @@
+# Motorola (MyUX & Hello UI) Bloatware
+
+com.motorola.genie                          # Moto Help & Tips
+com.motorola.brapps                         # Partner app installer (BRApps)
+com.motorola.demo                           # Retail demo mode
+com.motorola.mobiledesktop.readyfor         # Ready For PC link (if unused)

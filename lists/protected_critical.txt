@@ -1,0 +1,34 @@
+# STRICTLY PROTECTED PACKAGES (DO NOT TOUCH)
+# These packages must NEVER be uninstalled or disabled to prevent bricking/bootloops.
+
+# 1. Telephony & Calling
+com.android.phone                           # Telephony service
+com.android.server.telecom                  # Telecom framework
+com.android.dialer                          # Default dialer
+com.google.android.dialer                   # Google Phone
+
+# 2. Messaging
+com.android.mms                             # SMS framework
+com.google.android.apps.messaging           # Google Messages
+
+# 3. Google Core Framework
+com.android.vending                         # Google Play Store
+com.google.android.gms                      # Google Play Services
+com.google.android.gsf                      # Google Services Framework
+
+# 4. Hardware & Biometrics
+com.android.camera                          # Stock camera HAL
+com.android.bluetooth                       # Bluetooth stack
+com.android.nfc                             # NFC service
+com.android.keyguard                        # Keyguard & Screen lock
+
+# 5. System UI & Settings
+com.android.systemui                        # Android System UI
+com.android.settings                        # Android Settings
+com.android.packageinstaller                # Package installer
+
+# 6. OEM Accounts (Security linked)
+com.osp.app.signin                          # Samsung Account
+com.xiaomi.account                          # Xiaomi / Mi Account
+com.bbk.account                             # Vivo Account
+com.heytap.usercenter                       # HeyTap Account (Oppo/Realme/OnePlus)

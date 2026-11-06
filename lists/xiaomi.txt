@@ -1,0 +1,18 @@
+# Xiaomi / Redmi / POCO (MIUI & HyperOS) Bloatware
+
+# Ads & Telemetry (Primary cause of lag & notifications)
+com.miui.msa.global                         # MIUI System Ads (Core ad engine)
+com.miui.analytics                          # MIUI Telemetry and Analytics
+com.miui.yellowpage                         # Yellow Pages spam caller database
+com.miui.bugreport                          # Bug reporting daemon
+com.miui.miservice                          # Services & Feedback
+
+# Ad-Heavy Default Apps
+com.mi.globalbrowser                        # Mi Browser / Mint Browser
+com.miui.videoplayer                        # Mi Video
+com.miui.player                             # Mi Music
+com.xiaomi.glgm                             # Games app
+com.xiaomi.mipicks                          # GetApps store
+com.xiaomi.payment                          # Mi Pay
+com.miui.hybrid                             # Quick Apps framework
+com.miui.hybrid.accessory                   # Quick Apps engine
